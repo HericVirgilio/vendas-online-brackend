@@ -21,6 +21,7 @@ export class UserService {
 
         this.userRepository.save({
             ...CreateUserDto,
+            typeUser: 1,
             password: passwordHashed
         })
 
