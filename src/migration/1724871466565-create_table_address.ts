@@ -1,4 +1,4 @@
-import { MigrationInterface, QueryRunner } from "typeorm";
+/*import { MigrationInterface, QueryRunner } from "typeorm";
 
 export class CreateTableAddress1724871466565 implements MigrationInterface {
 
@@ -39,3 +39,4 @@ export class CreateTableAddress1724871466565 implements MigrationInterface {
     }
 
 }
+*/
